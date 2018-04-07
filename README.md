@@ -1,0 +1,2 @@
+# infographics
+Programmatically-generated infographics!
